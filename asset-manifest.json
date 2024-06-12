@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/customcuisine/static/css/main.ec2961cd.css",
+    "main.js": "/customcuisine/static/js/main.f9892eb6.js",
+    "static/js/453.aeb35295.chunk.js": "/customcuisine/static/js/453.aeb35295.chunk.js",
+    "static/media/pexels-valeriya-842571.jpg": "/customcuisine/static/media/pexels-valeriya-842571.54f8ab4d32486871f72a.jpg",
+    "index.html": "/customcuisine/index.html",
+    "main.ec2961cd.css.map": "/customcuisine/static/css/main.ec2961cd.css.map",
+    "main.f9892eb6.js.map": "/customcuisine/static/js/main.f9892eb6.js.map",
+    "453.aeb35295.chunk.js.map": "/customcuisine/static/js/453.aeb35295.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec2961cd.css",
+    "static/js/main.f9892eb6.js"
+  ]
+}
